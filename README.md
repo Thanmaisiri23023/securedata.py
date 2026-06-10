@@ -133,11 +133,11 @@ python securee.py
 
 ## Author
 
-**Srivatsav**
+**Thanmai Siri Sandu**
 
-B.Tech Computer Science and Engineering
+B.Tech Advanced Computer Science and Engineering
 
-K L University
+Vignan University
 
 ## License
 
